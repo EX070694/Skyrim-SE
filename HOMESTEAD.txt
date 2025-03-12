@@ -1,0 +1,184 @@
+player.additem 0300300F 305; Manor
+player.additem 0300300E 1005 
+player.additem 0300306C 131 
+player.additem 03003043 34 
+player.additem 03003011 40 
+player.additem 03003035 55 
+player.additem 03003012 19 
+   
+player.additem 0005ACE4 36 
+player.additem 03005A68 10 
+player.additem 000800E4 33 
+player.additem 0006BC04 8 
+player.additem 0300303F 14 
+player.additem 0003AD90 5 
+player.additem 03005A69 12 
+player.additem 0006BC0A 6 
+   
+player.additem 0003AD52 3 
+player.additem 0003AD6D 1 
+player.additem 0003AD6E 3 
+player.additem 0003AD74 3 
+player.additem 0003AD70 8 
+player.additem 0005ACE5 36 
+player.additem 0003AD68 2 
+player.additem 0006BC00 2 
+player.additem 0005AD9E 3 
+player.additem 0003AD8E 1 
+player.additem 0005ADA0 3 
+player.additem 0005AD9F 3 
+player.additem 0002E4FF 1 
+player.additem 0006BC0B 1 
+player.additem 0005ACE3 4 
+player.additem 0005AD9D 2 
+player.additem 0005AD99 2 
+player.additem 0005ADA1 2 
+player.additem 0005AD93 1 
+player.additem 0003ADA4 1 
+player.additem 0003ADA3 1 
+player.additem 00068523 1 
+player.additem 000C8911 1 
+player.additem 000CC848 1 
+player.additem 000C8915 1 
+player.additem 000C8917 1 
+player.additem 000C8919 1 
+player.additem 000C891B 1 
+player.additem 000CC844 1 
+player.additem 000CC846 1 
+player.additem 000878BB 1 
+player.additem 0006851E 1 
+   
+player.additem 0300300F 50; Trophy
+player.additem 0300300E 42 
+player.additem 0300306C 21 
+player.additem 03003011 7 
+player.additem 03003043 13 
+player.additem 03003035 9 
+player.additem 03003012 3 
+player.additem 0300303F 4 
+player.additem 0003AD68 2 
+player.additem 0005ACE4 2 
+player.additem 000800E4 2 
+player.additem 03005A69 1 
+player.additem 0003AD8E 1 
+   
+player.additem 0300306C 18; Storage
+player.additem 0300300F 79 
+player.additem 0300300E 55 
+player.additem 03003011 27 
+player.additem 03003043 3 
+player.additem 03003035 17 
+player.additem 03003012 12 
+player.additem 0005ACE4 5 
+player.additem 03005A69 4 
+player.additem 000800E4 3 
+player.additem 0005ACE5 3 
+player.additem 0300303F 2 
+player.additem 0006BC00 2 
+player.additem 0003AD8E 1 
+player.additem 0003AD74 1 
+   
+player.additem 0300300F 68; Alchemy
+player.additem 0300300E 44 
+player.additem 0300306C 16 
+player.additem 03003043 9 
+player.additem 03003011 14 
+player.additem 03003035 15 
+player.additem 03003012 7 
+player.additem 0300303F 7 
+player.additem 0005ACE4 7 
+player.additem 0005ACE5 6 
+player.additem 03005A69 3 
+player.additem 0006BC00 2 
+player.additem 000800E4 1 
+player.additem 0005ADA0 1 
+   
+player.additem 0300300F 78; Library
+player.additem 0300300E 47 
+player.additem 0300306C 16 
+player.additem 03003043 9 
+player.additem 03003011 10 
+player.additem 03003035 7 
+player.additem 03003012 5 
+player.additem 0300303F 7 
+player.additem 0005ACE4 2 
+   
+player.additem 0300300F 54; Kitchen
+player.additem 0300300E 38 
+player.additem 0300306C 21 
+player.additem 03003011 4 
+player.additem 03003043 5 
+player.additem 03003035 12 
+player.additem 03003012 2 
+player.additem 0005ACE4 9 
+player.additem 0300303F 7 
+player.additem 0003AD68 2 
+player.additem 000800E4 2 
+player.additem 0006BC0A 1 
+   
+player.additem 0300306C 26; Armory
+player.additem 0300300F 78 
+player.additem 0300300E 62 
+player.additem 03003011 16 
+player.additem 03003035 29 
+player.additem 03003012 5 
+player.additem 03003043 3 
+player.additem 0300303F 9 
+player.additem 000800E4 8 
+player.additem 03005A69 6 
+player.additem 03005A68 4 
+player.additem 0005ACE4 4 
+player.additem 0003AD68 2 
+player.additem 0006BC04 2 
+player.additem 0003AD52 1 
+player.additem 0003AD6D 1 
+player.additem 0003AD74 1 
+   
+player.additem 0300300F 76; Greenhouse
+player.additem 0300300E 50 
+player.additem 0300306C 20 
+player.additem 03003011 10 
+player.additem 03003043 21 
+player.additem 03003035 14 
+player.additem 03003012 2 
+player.additem 03005A69 6 
+player.additem 0300303F 6 
+player.additem 0005ACE4 4 
+player.additem 000800E4 4 
+player.additem 0006BC00 4 
+player.additem 0003AD8E 2 
+   
+player.additem 0300300F 56; Enchanter
+player.additem 0300300E 41 
+player.additem 0300306C 17 
+player.additem 03003043 9 
+player.additem 03003011 12 
+player.additem 03003035 10 
+player.additem 03003012 5 
+player.additem 0005ACE4 5 
+player.additem 03005A69 3 
+player.additem 0003AD8E 1 
+player.additem 0300303F 1 
+player.additem 0005AD9E 1 
+player.additem 0002E4FF 1 
+player.additem 000800E4 1 
+player.additem 0005AD9F 1 
+   
+player.additem 0300306C 18; Bedrooms
+player.additem 0300300F 75 
+player.additem 0300300E 52 
+player.additem 03003011 18 
+player.additem 03003043 3 
+player.additem 03003035 14 
+player.additem 03003012 8 
+player.additem 000800E4 10 
+player.additem 03005A68 4 
+player.additem 0005ACE5 3 
+player.additem 03005A69 2 
+player.additem 0300303F 2 
+player.additem 0005ACE4 2 
+player.additem 0006BC00 2 
+player.additem 0003AD52 1 
+   
+player.additem 0003AD53 5; Pelts
+player.additem 0003AD75 5 

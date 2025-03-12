@@ -1,0 +1,22 @@
+player.additem 5AD93 50; Corundum Ingot
+player.additem 5AD9D 50; Ebony Ingot
+player.additem 5ACE4 50; Iron Ingot
+player.additem 5ADA0 50; Quicksilver Ingot
+player.additem 5AD9F 50; Refined Moonstone Ingot
+player.additem 5ACE5 50; Steel Ingot
+player.additem DB8A2 50; Dwarven Ingot
+player.additem 5AD9E 50; Gold Ingot
+player.additem 5AD99 50; Orichalcum Ingot
+player.additem 5ADA1 50; Refined Malachite Ingot
+player.additem 5ACE3 50; Silver Ingot
+player.additem 3ADA3 50; Dragon Scales
+player.additem 3ADA4 50; Dragon Bone
+player.additem DB5D2 50; Leather
+player.additem 800E4 50; Leather Strips
+player.additem 3AD57 50; Charus Chitin
+player.additem 3AD8E 50; Goat Hide
+
+; Dragonborn
+player.additem 0401CD7C 50; Netch Leather
+player.additem 0402B06B 50; Stalhrim
+player.additem 0402B04E 50; Chitin Plate
