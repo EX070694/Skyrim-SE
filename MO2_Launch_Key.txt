@@ -1,0 +1,6 @@
+Below is the code that needs to be placed in the custom .ini field in the tools folder within MO2.
+=================================================================================================
+
+[Archive]
+bInvalidateOlderFiles=1
+[sResourceDataDirsFinal=
